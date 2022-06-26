@@ -1,0 +1,13 @@
+LÝ THUY?T
+
+Câu 1 : 1(1d). Trình bày so sánh hàm c?p phát realloc và toán t? new.
+
+2 co ch? : co ch? 1 gi?ng nhau là d?u c?p phát vùng nh? m?i b? nh? m?i cho con tr? 
+khác : real có kh? nang m? r?ng thu h?p vùng nh? n?u có b? nh? còn new là c?p phát m?i toàn b? luôn
+
+Caau2 : 2(1d). So sánh uu nhu?c di?m c?a m?ng và dslk
+M?ng : uu di?m truy c?p vào v? trí b?t ki d? dàng d? khó : 0^1 ;
+d?i l?i  t?n b? nh? , xóa 1 ph?n t? trong m?ng khó khan v?i d? khó : 0^n
+
+dslk : ti?t ki?m b? nh? kho truy c?p vào vùng nh? bât kì ph?i di t? d?u d?n v? trí n ;
+
